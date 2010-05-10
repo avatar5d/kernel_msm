@@ -90,6 +90,7 @@ const bcm_iovar_t dhd_iovars[] = {
 	{NULL, 0, 0, 0, 0 }
 };
 
+
 void
 dhd_common_init(void)
 {
